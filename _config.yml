@@ -14,7 +14,7 @@ title                    : "Κατασκευή Συστημάτων Διάδρα
 title_separator          : "-"
 name                     : "PavTsol"
 description              : "Making Interactivity Greek Book."
-url                      : "https://pavtsol.netlify.app/gallery/"
+url                      : "https://pavtsol.netlify.app"
 baseurl                  : ""
 repository               : "PavTsol/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

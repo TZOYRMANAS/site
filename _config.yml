@@ -12,7 +12,7 @@ theme: minimal-mistakes-jekyll
 locale                   : "gr-GR"
 title                    : "Κατασκευή Συστημάτων Διάδρασης"
 title_separator          : "-"
-name                     : "PavTsol"
+name                     : "epidrome"
 description              : "Making Interactivity Greek Book."
 url                      : "https://pavtsol.netlify.app"
 baseurl                  : ""

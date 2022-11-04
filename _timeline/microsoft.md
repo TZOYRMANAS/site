@@ -13,5 +13,4 @@ events:
   - windows8
   - windows10
   - holo-lens
-  - microsoft-flight-simulator
 ---

@@ -10,7 +10,7 @@ header:
   caption: "Δικαιώματα εικόνας: [**SRI International**](https://www.sri.com)"
 excerpt: 'Σχεδιασμός και κατασκευή συνεργατικών συστήματων για ένα οικοσύστημα συσκευών και υπηρεσιών.'
 ---
-
+<!--
 <div class="feature__wrapper">
 
   {% assign random = site.time | date: "%s%N" | modulo: site.biography.size %}
@@ -26,3 +26,4 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
   {% include feature_col.html id="case-study" type="right" index=random %}
 
 <div>
+-->

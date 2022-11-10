@@ -3,7 +3,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: (TZOYRMANAS/images/blob/master/skype-logo-open-graph.png)
+  overlay_image: (../images/skype-logo-open-graph.png)
   cta_label: "Download"
   cta_label: "Εκτυπώστε το βιβλίο σε σελίδα Α4"
   cta_url: "https://github.com/mibook/kallipos/files/9484377/bookA4.pdf"

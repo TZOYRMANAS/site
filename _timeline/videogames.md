@@ -2,21 +2,7 @@
 layout: timeline 
 title: Βιντεοπαιχνίδια 
 image_url: /images/spacewar-players.jpg
-caption: Τα βίντεοπαιχνίδια ακολουθούν μια παράλληλη με γραφική διεπαφή διαδρομή, με διαφορετικά είδη γραφικών, καθώς και άλλες μεταφορές για την αλληλεπίδραση με τον χρήστη. 
+caption: Το Nintendo Entertainment System είναι κονσόλα βιντεοπαιχνιδιών 8-bit, που κυκλοφόρησε στη βόρεια Αμερική το 1985, και στην Ευρώπη μεταξύ 1986 και 1987. Η κονσόλα κυκλοφόρησε αρχικά στην Ιαπωνία, ως Family το 1983. Θεωρείται η καλύτερη κονσόλα της εποχής της.Με το NES, η Nintendo υιοθέτησε ένα επιχειρηματικό μοντέλο χαμηλών προδιαγραφών, με το οποίο αδειοδότησε τρίτους προγραμματιστές ώστε να παράγουν και να διανέμουν τίτλους για την κονσόλα.Το NES κυκλοφόρησε ως πακέτο μαζί με το Super Mario Bros.Ένα από τα παιχνίδια με τις μεγαλύτερες πωλήσεις όλων των εποχών, και κυκλοφόρησαν σε αυτό τα πιο δημοφιλή arcade παιχνίδια της Nintendo. Μέχρι τις 31 Μαρτίου του 2014, η Nintendo ανέφερε πωλήσεις  εκατομμυρίων κομματιών NES.
 events:
-  - tennis-for-two 
-  - spacewar-players
-  - spacewar-gamepad
-  - magnavox-odyssey
-  - lunar-lander
-  - pong
-  - moonlander
-  - breakout
-  - space-invaders
-  - adventure-videogame
-  - atari-adventure
-  - rockys-boots
-  - pop
-  - math-blaster
-  - minecraft-end-user
+- nintento
 ---

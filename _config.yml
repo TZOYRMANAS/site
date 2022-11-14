@@ -12,11 +12,11 @@ theme: minimal-mistakes-jekyll
 locale                   : "gr-GR"
 title                    : "Κατασκευή Συστημάτων Διάδρασης"
 title_separator          : "-"
-name                     : "pibook"
+name                     : "p18tzou"
 description              : "Making Interactivity Greek Book."
 url                      : "https://p18tzou.netlify.app"
 baseurl                  : ""
-repository               : "pibook/site"
+repository               : "p18tzou/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

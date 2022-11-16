@@ -4,6 +4,7 @@ title: social media
 image_url: /images/skype-logo-open-graph.png
 caption: Tα social media έχουν  γίνει τρόπος ζωής των ανθρώπων και έχει διυεκολύνει κατα πολύ την καθημερονότητα μας .
 events:
-  - socialmedia
-  - videogames
+  - social-media-diy
+  - social-media-skype
+  - social-media
 ---

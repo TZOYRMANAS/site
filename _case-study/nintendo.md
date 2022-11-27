@@ -17,4 +17,4 @@ tags:
   - Nintendo Switch
 ---
 
-{% include cs-nintendo.md %}
+{% include cs_nintendo.md %}

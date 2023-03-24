@@ -1,0 +1,15 @@
+[submodule "_notes"]
+	path = _notes
+	url = https://github.com/TZOYRMANAS/notes
+[submodule "_bibliography"]
+	path = _bibliography
+	url = https://github.com/TZOYRMANAS/bibliography
+[submodule "_quotes"]
+	path = _quotes
+	url = https://github.com/TZOYRMANAS/_quotes
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/TZOYRMANAS/extras
+[submodule "_includes/text"]
+	path = _includes/text
+	url = https://github.com/TZOYRMANAS/text

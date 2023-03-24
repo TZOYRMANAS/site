@@ -1,0 +1,6 @@
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/TZOYRMANAS/_gallery
+[submodule "images"]
+	path = images
+	url = https://github.com/TZOYRMANAS/images

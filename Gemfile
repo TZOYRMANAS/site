@@ -31,4 +31,4 @@ group :jekyll_plugins do
   gem 'jekyll-scholar'
 end
 gem "sass", "~> 3.7"
-gem "sass-embedded", "~> 1.60"
+gem "sass-embedded", "~> 1.58"

@@ -29,6 +29,5 @@ group :jekyll_plugins do
   gem 'jekyll-tagories'
   gem 'jekyll-remote-theme'
   gem 'jekyll-scholar'
+  gem "jekyll-sass-converter", "~> 2.0"
 end
-gem "sass", "~> 3.7"
-gem "sass-embedded", "~> 1.50"
